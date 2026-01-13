@@ -41,7 +41,7 @@ var_dump(value:$persona);
 
 echo "<h1>Ejercicio 5</h1>";
 $letras = array("a","b","c","d","e","f");
-explode
+//explode
 
 
 
