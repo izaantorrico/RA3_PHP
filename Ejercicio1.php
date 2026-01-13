@@ -36,7 +36,6 @@ $persona = array(
     array( "apellido" => "Martínez"),
     array ("edad" => "23")
 );
-
 var_dump(value:$persona);
 
 echo "<h1>Ejercicio 5</h1>";
