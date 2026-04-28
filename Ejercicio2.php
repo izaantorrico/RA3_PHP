@@ -66,6 +66,7 @@
     // update
     $cars[2][2] = 12;
     // read all
+    
     for ($row = 0; $row < count($cars); $row++) {
         echo "<p><b>Row number $row</b></p>";
         echo "<ul>";
